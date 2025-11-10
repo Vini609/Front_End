@@ -49,9 +49,9 @@ export default function Header () {
       {/* Logo */}
       <div className='logo'>
         <Link to='/'>
-          <span className='logo-1'>G</span>
-          <span className='logo-2'>M</span>
-          <span className='logo-3'>X</span>
+          <span className='logo-1'>V</span>
+          <span className='logo-2'>J</span>
+          <span className='logo-3'>R</span>
         </Link>
       </div>
 
